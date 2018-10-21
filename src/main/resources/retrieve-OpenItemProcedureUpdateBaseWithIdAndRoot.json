@@ -1,0 +1,15 @@
+{
+  "transactionCurrency" : "USD",
+  "transactionPayerReference" : "TPRE2221",
+  "transactionValueDate" : "2018-08-05",
+  "openItemReference" : "OITR2700",
+  "transactionType" : "Debit",
+  "openItemStatus" : "Issued",
+  "openItemDescription" : "Loan Accounts",
+  "openItemType" : "AccountsReceivables",
+  "transactionAmount" : "$2000",
+  "openItemUpdateReference" : "OIUR0005",
+  "transactionPayerProductInstanceReference" : "TPIR3252",
+  "repaymentTransactionReference" : "RTTR0311",
+  "transactionPayerBankReference" : "TWOW3492"
+}

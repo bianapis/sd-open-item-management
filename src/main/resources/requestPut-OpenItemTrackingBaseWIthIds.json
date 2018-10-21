@@ -1,0 +1,14 @@
+{
+  "openItemReference" : "OIR123",
+  "billingStatement" : {},
+  "billingParty" : "billing party -1",
+  "paymentDueDate" : "2018-09-27",
+  "billingTransactionReference" : "BTR123",
+  "billingAmount" : "5000",
+  "openItemStatus" : "Pending",
+  "openItemDescription" : "open item - 1",
+  "billingPeriod" : "2018-09-25 to 2018-09-30",
+  "OpenItemTrackingReference" : "OITR123",
+  "openItemType" : "tyepe-1",
+  "billingAddress" : "2 pnc plaza, Pittsburgh"
+}
